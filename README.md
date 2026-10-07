@@ -1,6 +1,6 @@
 # Proyecto ETL y Data Warehouse (SSIS & SQL Server)
 
-Repositorio oficial del proyecto académico enfocado en el diseño, desarrollo e implementación de un proceso ETL (Extracción, Transformación y Carga) robusto y la construcción de un modelo multidimensional en esquema estrella utilizando **Microsoft SQL Server**, **Integration Services (SSIS)** y scripts avanzados en **T-SQL**.
+Repositorio oficial del proyecto académico enfocado en el diseño, desarrollo e implementación de un proceso ETL (Extracción, Transformación y Carga) robusto y la construcción de un modelo multidimensional en esquema estrella utilizando Microsoft SQL Server, Integration Services (SSIS) y scripts avanzados en T-SQL.
 
 ---
 
